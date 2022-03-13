@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1619634305 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<conio.h>
+	"novo_jogo.h"
+	"gera2ou4.h"
+	"imprime_tabuleiro.h"
+	"salvar_ou_carregar.h"
+	"main.h"
+
+1620075751 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\novo_jogo.c
+	"main.h"
+	<conio2.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"imprime_tabuleiro.h"
+	"gera2ou4.h"
+	"movimentos.h"
+	"encerramentos.h"
+
+1618858711 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\novo_jogo.h
+
+1619633886 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\main.h
+	<conio2.h>
+
+1620080808 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\imprime_tabuleiro.h
+
+1620081154 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\imprime_tabuleiro.c
+	"main.h"
+	<conio2.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618425700 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\gera2ou4.c
+	"main.h"
+	<conio2.h>
+	<conio.h>
+	<time.h>
+	"imprime_tabuleiro.h"
+	"cores.h"
+
+1618264248 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\gera2ou4.h
+
+1618423908 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\movimentos.c
+	"main.h"
+	"cores.h"
+
+1618265013 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\movimentos.h
+
+1618266462 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\cores.h
+	<conio2.h>
+
+1618364780 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\cores.c
+	<conio2.h>
+
+1620081420 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\encerramentos.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"imprime_tabuleiro.h"
+
+1619625041 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\encerramentos.h
+
+1620075690 source:c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\salvar_ou_carregar.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"imprime_tabuleiro.h"
+
+1618882877 c:\users\eduardoluis\downloads\ufrgs\1º semestre\algoritmos e programação\trabalho final\2048\salvar_ou_carregar.h
+

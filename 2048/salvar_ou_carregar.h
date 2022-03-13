@@ -1,0 +1,6 @@
+#ifndef SALVAR_OU_CARREGAR_H_INCLUDED
+#define SALVAR_OU_CARREGAR_H_INCLUDED
+
+int salvar_ou_carregar();
+
+#endif // SALVAR_OU_CARREGAR_H_INCLUDED
